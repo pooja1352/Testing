@@ -7,8 +7,8 @@ class reverse
       String original, reverse = "";
       Scanner in = new Scanner(System.in);
  
-      System.out.println("Enter a string to reverse");
-      original = arg[0];
+      System.out.println("string entered");
+      original = "First Program";
  
       int length = original.length();
  
